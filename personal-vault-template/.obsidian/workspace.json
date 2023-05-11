@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5273f0faf4a2130c",
@@ -169,13 +168,13 @@
   },
   "active": "8947c34bba236416",
   "lastOpenFiles": [
-    "Untitled 1/Untitled 2.md",
+    "Untitled/Untitled 1.md",
     "Untitled/Untitled.md",
+    "Untitled 1/Untitled 3.md",
+    "Untitled 1/Untitled 2.md",
     "Untitled.md",
     "Untitled 1/Untitled",
     "Untitled/Untitled",
-    "Untitled/Untitled 1.md",
-    "Untitled 1/Untitled 3.md",
     "Untitled 2",
     "Untitled 1",
     "Untitled"
