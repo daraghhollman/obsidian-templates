@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8947c34bba236416",
+  "active": "61dd8bb41d56143b",
   "lastOpenFiles": [
     "Untitled/Untitled 1.md",
     "Untitled/Untitled.md",
